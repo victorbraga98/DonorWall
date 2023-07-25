@@ -3,7 +3,7 @@
 __author__ = "Victor Braga"
 __copyright__ = "Copyright 2023, Victor Braga"
 __credits__ = []
-__license__ = "GPL-3"
+__license__ = "MIT"
 __version__ = "1.0.0"
 __maintainer__ = "Victor Braga"
 __email__ = "victorbraga98@gmail.com"
